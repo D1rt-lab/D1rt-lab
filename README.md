@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Dev" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### Sobre mim
 
 Sou um QUASE técnico em Desenvolvimento de Sistemas, com conclusão prevista para 2027. Tenho interesse no desenvolvimento de softwares e venho construindo minha experiência por meio de projetos utilizando Java, JavaScript, React Native e MongoDB, além de desenvolver e integrar APIs para aplicações mobile e web.  
 Meu objetivo é seguir carreira na área de desenvolvimento de jogos digitais. Atualmente, estudo e desenvolvo projetos utilizando a engine Godot e a linguagem GDScript, e pretendo aprofundar cada vez mais meus conhecimentos, explorando diferentes engines e tecnologias da área. Também estou aprimorando minhas habilidades em arte digital para ampliar minha capacidade de criar experiências completas e imersivas. Paralelamente, sou baterista, experiência que fortalece minha criatividade, disciplina e visão multidisciplinar durante o desenvolvimento de projetos.  
@@ -17,7 +17,7 @@ Acredito que um bom software vai além de funcionar corretamente: ele deve ser o
 🔭 &nbsp;I'm currently working on **Desenvolvimento de um jogo autoral em fase inicial**  
 ⚡ &nbsp;Fun fact: **Tenho um certo conhecimento em Docker, serviços AWS e Linux (principalmente o LinuxMint)**
 
-### 🛠️ Tech Stack
+### 🛠️ Conhecimentos
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -40,25 +40,16 @@ Acredito que um bom software vai além de funcionar corretamente: ele deve ser o
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### 🔗 Connect With Me
+### Redes Sociais
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iago-guimar%C3%A3es-campos-1326593b5/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/d1rtlab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
 </p>
 
-### 📊 GitHub Stats
+### 📊 Status Github
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=D1rt-lab&show_icons=true&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=D1rt-lab&layout=compact&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/D1rt-lab">D1rt-lab</a></i></p>
