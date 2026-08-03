@@ -8,16 +8,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Dev" alt="Typing headlines" />
 </p>
 
-### Sobre mim
+### Sobre Mim
 
-Sou um QUASE técnico em Desenvolvimento de Sistemas, com conclusão prevista para 2027. Tenho interesse no desenvolvimento de softwares e venho construindo minha experiência por meio de projetos utilizando Java, JavaScript, React Native e MongoDB, além de desenvolver e integrar APIs para aplicações mobile e web.  
-Meu objetivo é seguir carreira na área de desenvolvimento de jogos digitais. Atualmente, estudo e desenvolvo projetos utilizando a engine Godot e a linguagem GDScript, e pretendo aprofundar cada vez mais meus conhecimentos, explorando diferentes engines e tecnologias da área. Também estou aprimorando minhas habilidades em arte digital para ampliar minha capacidade de criar experiências completas e imersivas. Paralelamente, sou baterista, experiência que fortalece minha criatividade, disciplina e visão multidisciplinar durante o desenvolvimento de projetos.  
+Sou um QUASE técnico em Desenvolvimento de Sistemas, com conclusão prevista para 2027. Tenho interesse no desenvolvimento de softwares e venho construindo minha experiência por meio de projetos
+utilizando principalmente Java, JavaScript, React Native e MongoDB, além de desenvolver e integrar APIs para aplicações mobile e web.  
+Meu objetivo é seguir carreira na área de desenvolvimento de jogos digitais. Atualmente, estudo e desenvolvo projetos utilizando a engine Godot e consequentemente a linguagem GDScript, e pretendo aprofundar cada vez mais meus conhecimentos, explorando diferentes engines e tecnologias da área. Também estou aprimorando minhas habilidades em arte digital para ampliar minha capacidade de criar experiências completas e imersivas. Paralelamente, sou baterista, experiência que fortalece minha criatividade, disciplina e visão multidisciplinar durante o desenvolvimento de projetos.  
 Acredito que um bom software vai além de funcionar corretamente: ele deve ser organizado, escalável e de fácil manutenção. Por isso, busco escrever código limpo, estruturado e seguindo boas práticas de desenvolvimento.
 
-🔭 &nbsp;I'm currently working on **Desenvolvimento de um jogo autoral em fase inicial**  
-⚡ &nbsp;Fun fact: **Tenho um certo conhecimento em Docker, serviços AWS e Linux (principalmente o LinuxMint)**
+🔭 &nbsp;Atualmente estou trabalhando com: **Desenvolvimento de um jogo autoral em fase inicial**  
+⚡ &nbsp;EXTRAS: **Tenho um certo conhecimento em Docker, serviços AWS e Linux**
 
-### 🛠️ Conhecimentos
+### Conhecimentos
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -40,14 +41,14 @@ Acredito que um bom software vai além de funcionar corretamente: ele deve ser o
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### Redes Sociais
+### Formas de contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iago-guimar%C3%A3es-campos-1326593b5/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/d1rtlab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
 </p>
 
-### 📊 Status Github
+### Estatísticas do Github
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=D1rt-lab&show_icons=true&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
