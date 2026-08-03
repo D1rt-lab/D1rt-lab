@@ -10,10 +10,9 @@
 
 ### Sobre Mim
 
-Sou um QUASE técnico em Desenvolvimento de Sistemas, com conclusão prevista para 2027. Tenho interesse no desenvolvimento de softwares e venho construindo minha experiência por meio de projetos
-utilizando principalmente Java, JavaScript, React Native e MongoDB, além de desenvolver e integrar APIs para aplicações mobile e web.  
-Meu objetivo é seguir carreira na área de desenvolvimento de jogos digitais. Atualmente, estudo e desenvolvo projetos utilizando a engine Godot e consequentemente a linguagem GDScript, e pretendo aprofundar cada vez mais meus conhecimentos, explorando diferentes engines e tecnologias da área. Também estou aprimorando minhas habilidades em arte digital para ampliar minha capacidade de criar experiências completas e imersivas. Paralelamente, sou baterista, experiência que fortalece minha criatividade, disciplina e visão multidisciplinar durante o desenvolvimento de projetos.  
-Acredito que um bom software vai além de funcionar corretamente: ele deve ser organizado, escalável e de fácil manutenção. Por isso, busco escrever código limpo, estruturado e seguindo boas práticas de desenvolvimento.
+Sou um quase Técnico em Desenvolvimento de Sistemas, com conclusão prevista para 2027. Desenvolvo projetos utilizando Java, JavaScript, React Native, MongoDB e APIs para aplicações mobile e web.
+Meu principal objetivo é atuar no desenvolvimento de jogos digitais. Atualmente estudo e desenvolvo projetos com a engine Godot e GDScript, buscando expandir meus conhecimentos em diferentes engines, tecnologias e arte digital para criar experiências completas e imersivas.
+Valorizo código limpo, organizado e escalável, sempre seguindo boas práticas de desenvolvimento. Além da programação, sou baterista e estou aprendendo Design Digital, atividades que fortalece minha criatividade, disciplina e capacidade de trabalhar em projetos multidisciplinares.
 
 &nbsp;Atualmente estou trabalhando com: **Desenvolvimento de um jogo autoral em fase inicial**  
 &nbsp;EXTRAS: **Tenho um certo conhecimento em Docker, serviços AWS, frontend WEB e Linux**
