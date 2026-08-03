@@ -46,11 +46,5 @@ Acredito que um bom software vai além de funcionar corretamente: ele deve ser o
 <p align="left">
   <a href="https://www.linkedin.com/in/iago-guimar%C3%A3es-campos-1326593b5/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/d1rtlab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-</p>
-
-### Estatísticas do Github
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=D1rt-lab&show_icons=true&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=D1rt-lab&layout=compact&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <a href="mailto:iagogcampos09@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
