@@ -15,7 +15,7 @@ Meu principal objetivo é atuar no desenvolvimento de jogos digitais. Atualmente
 Valorizo código limpo, organizado e escalável, sempre seguindo boas práticas de desenvolvimento. Além da programação, sou baterista e estou aprendendo Design Digital, atividades que fortalece minha criatividade, disciplina e capacidade de trabalhar em projetos multidisciplinares.
 
 &nbsp;Atualmente estou trabalhando com: **Desenvolvimento de um jogo autoral em fase inicial**  
-&nbsp;EXTRAS: **Tenho um certo conhecimento em Docker, serviços AWS, frontend WEB e Linux**
+&nbsp;EXTRAS: **Tenho um certo conhecimento em Docker, serviços AWS, frontend WEB, Arduino e Linux**
 
 ### Conhecimentos
 
