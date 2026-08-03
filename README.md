@@ -15,8 +15,8 @@ utilizando principalmente Java, JavaScript, React Native e MongoDB, além de des
 Meu objetivo é seguir carreira na área de desenvolvimento de jogos digitais. Atualmente, estudo e desenvolvo projetos utilizando a engine Godot e consequentemente a linguagem GDScript, e pretendo aprofundar cada vez mais meus conhecimentos, explorando diferentes engines e tecnologias da área. Também estou aprimorando minhas habilidades em arte digital para ampliar minha capacidade de criar experiências completas e imersivas. Paralelamente, sou baterista, experiência que fortalece minha criatividade, disciplina e visão multidisciplinar durante o desenvolvimento de projetos.  
 Acredito que um bom software vai além de funcionar corretamente: ele deve ser organizado, escalável e de fácil manutenção. Por isso, busco escrever código limpo, estruturado e seguindo boas práticas de desenvolvimento.
 
-🔭 &nbsp;Atualmente estou trabalhando com: **Desenvolvimento de um jogo autoral em fase inicial**  
-⚡ &nbsp;EXTRAS: **Tenho um certo conhecimento em Docker, serviços AWS e Linux**
+&nbsp;Atualmente estou trabalhando com: **Desenvolvimento de um jogo autoral em fase inicial**  
+&nbsp;EXTRAS: **Tenho um certo conhecimento em Docker, serviços AWS, frontend WEB e Linux**
 
 ### Conhecimentos
 
